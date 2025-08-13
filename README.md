@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Héctor Antonio 👋</h1>
+<h3 align="center">Mechatronics Engineer | Automation • Mechanical Design • Systems Integration</h3>
 
-<!--
-**Atorony23/Atorony23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+I'm a **Mechatronics Engineer** passionate about creating innovative solutions in **automation, mechanical design, and systems integration**.  
+With experience in **CAD modeling (CSWA certified)**, **PLC programming**, and **collaborative robotics**, I focus on delivering high-precision, efficient, and reliable engineering solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 *"Engineering is not only about building machines, but about creating solutions that improve lives."*
+
+---
+
+### 🔧 Skills & Tools
+- 🛠 **Mechanical Design:** SolidWorks (CSWA), CAD assemblies, GD&T  
+- ⚙️ **Automation & Control:** Siemens TIA Portal, PLC programming, cobot integration  
+- 🤖 **Robotics:** UR collaborative robots, robotic simulation  
+- 💻 **Programming:** MATLAB, Python  
+- 🏭 **Other:** Material selection, manufacturing processes  
+
+---
+
+### 📂 Featured Projects
+| Project | Description | Tech Used |
+|---------|-------------|-----------|
+| **Fiber Length Automated Cutting Control (FLACC)** | Automation system for precise fiber optic cable cutting | PLC, CAD, sensors |
+| **Collaborative Robot Integration** | Programming & deployment of UR cobots in manufacturing | UR, PLC, CAD |
+| **Robotic Simulation Challenge** | International competition in autonomous robotic manipulation | Simulation software, robotics |
+
+---
+
+### 🌍 Let's Connect
+<p align="left">
+<a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ **If you like my work, feel free to star my repositories!**
