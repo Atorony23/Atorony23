@@ -23,7 +23,7 @@ With experience in **CAD modeling (CSWA certified)**, **PLC programming**, and *
 ### 📂 Featured Projects
 | Project | Description | Tech Used |
 |---------|-------------|-----------|
-| **Fiber Length Automated Cutting Control ** | Automation system for precise fiber optic cable cutting | Protoyping, CAD, sensors, actuators|
+| **Fiber Length Automated Cutting Control** | Automation system for precise fiber optic cable cutting | Protoyping, CAD, sensors, actuators|
 | **Collaborative Robot Integration** | Programming & deployment of UR cobots in manufacturing | UR, PLC, CAD |
 | **Robotic Simulation Challenge** | International competition in autonomous robotic manipulation | Simulation software, robotics |
 
@@ -38,4 +38,4 @@ With experience in **CAD modeling (CSWA certified)**, **PLC programming**, and *
 
 ---
 
-⭐ **If you like my work, feel free to star my repositories!**
+⭐ **If you like my work, feel free to star my repositories or contact me!**
