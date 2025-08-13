@@ -23,6 +23,7 @@ With experience in **CAD modeling (CSWA certified)**, **PLC programming**, and *
 ### 📂 Featured Projects
 | Project | Description | Tech Used |
 |---------|-------------|-----------|
+| **Robocup ARM Challenge** | Competition about automation an UR to clean a table | UR, Matlab, Vision |
 | **Fiber Length Automated Cutting Control** | Automation system for precise fiber optic cable cutting | Protoyping, CAD, sensors, actuators|
 | **Collaborative Robot Integration** | Programming & deployment of UR cobots in manufacturing | UR, PLC, CAD |
 | **Robotic Simulation Challenge** | International competition in autonomous robotic manipulation | Simulation software, robotics |
